@@ -2135,3 +2135,43 @@ https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8
 http://103.151.60.162:2122/play/a00p/index.m3u8?hls
 #EXTINF:-1 tvg-name="Youtoo America KVVB-LD (1080p) [Not 24/7]" group-title="18 Other Channels",Youtoo America KVVB-LD (1080p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
+#EXTINF:-1 tvg-name="Channels 24" group-title="05 African English TV",Channels 24 — Nigeria
+https://live20.bozztv.com/dvrfl06/astv/astv-channel24africa/index.m3u8
+#EXTINF:-1 tvg-name="Channels TV" group-title="05 African English TV",Channels TV — Nigeria
+https://cs2.push2stream.com/CHANNELSTV-DVR/playlist.m3u8
+#EXTINF:-1 tvg-name="LN247 (1080p)" group-title="05 African English TV",LN247 (1080p) — Nigeria
+https://go5lmb6oyawb-hls-live.5centscdn.com/station/3dfd3752af3d7aec5c53992c2da3a316.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="News Central" group-title="05 African English TV",News Central — Nigeria
+https://wf.newscentral.ng:8443/hls/stream.m3u8
+#EXTINF:-1 tvg-name="NTA International (576p) [Not 24/7]" group-title="05 African English TV",NTA International (576p) [Not 24/7] — Nigeria
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8
+#EXTINF:-1 tvg-name="Plus TV Africa (720p) [Not 24/7]" group-title="05 African English TV",Plus TV Africa (720p) [Not 24/7] — Nigeria
+https://5c0740dba62b3.streamlock.net/plustv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="Rave TV (576p)" group-title="05 African English TV",Rave TV (576p) — Nigeria
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Silverbird News 24 (576p)" group-title="05 African English TV",Silverbird News 24 (576p) — Nigeria
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Adinkra TV (1080p)" group-title="05 African English TV",Adinkra TV (1080p) — Ghana
+https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8
+#EXTINF:-1 tvg-name="TV3 (540p)" group-title="05 African English TV",TV3 (540p) — Ghana
+https://g2qd3exjy7an-hls-live.5centscdn.com/webtv3/ghanatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="QTV Gambia (720p) [Not 24/7]" group-title="05 African English TV",QTV Gambia (720p) [Not 24/7] — Gambia
+https://player.qtv.gm/hls/live.stream.m3u8
+#EXTINF:-1 tvg-name="KRC TV" group-title="05 African English TV",KRC TV — Uganda
+https://channels.ad-ug.com/live/ch03/index.m3u8
+#EXTINF:-1 tvg-name="KSTV Uganda" group-title="05 African English TV",KSTV Uganda — Uganda
+https://live.esteem.africa/kstv/hls/0/stream.m3u8
+#EXTINF:-1 tvg-name="KC2 (720p) [Not 24/7]" group-title="05 African English TV",KC2 (720p) [Not 24/7] — Rwanda
+http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
+#EXTINF:-1 tvg-name="RTV Rwanda (480p) [Not 24/7]" group-title="05 African English TV",RTV Rwanda (480p) [Not 24/7] — Rwanda
+http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8
+#EXTINF:-1 tvg-name="TV10 (720p)" group-title="05 African English TV",TV10 (720p) — Rwanda
+https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8
+#EXTINF:-1 tvg-name="Aviation TV (480p)" group-title="05 African English TV",Aviation TV (480p) — Kenya
+http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="K24 (1080p)" group-title="05 African English TV",K24 (1080p) — Kenya
+https://livecdn.premiumfree.tv/afxpstr/K24Backup/index.m3u8
+#EXTINF:-1 tvg-name="LN24SA (1080p)" group-title="05 African English TV",LN24SA (1080p) — South Africa
+https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="WildEarth (1080p)" group-title="05 African English TV",WildEarth (1080p) — South Africa
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
