@@ -163,29 +163,29 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="The Weather Channel (1080p)" group-title="02 Favorites - News & Weather",The Weather Channel (1080p)
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
-#EXTINF:-1 tvg-name="Africanews English (720p)" group-title="03 Mosaic - International Perspectives",Africanews English (720p)
+#EXTINF:-1 tvg-name="Africanews English (720p)" group-title="03 Global News",Africanews English (720p)
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera English (1080p)" group-title="03 Mosaic - International Perspectives",Al Jazeera English (1080p)
+#EXTINF:-1 tvg-name="Al Jazeera English (1080p)" group-title="03 Global News",Al Jazeera English (1080p)
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera English HD (576p)" group-title="03 Mosaic - International Perspectives",Al Jazeera English HD (576p)
+#EXTINF:-1 tvg-name="Al Jazeera English HD (576p)" group-title="03 Global News",Al Jazeera English HD (576p)
 http://stream.mcquack.net/131/index.m3u8
-#EXTINF:-1 tvg-name="DW English (1080p)" group-title="03 Mosaic - International Perspectives",DW English (1080p)
+#EXTINF:-1 tvg-name="DW English (1080p)" group-title="03 Global News",DW English (1080p)
 https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
-#EXTINF:-1 tvg-name="Euronews English (720p)" group-title="03 Mosaic - International Perspectives",Euronews English (720p)
+#EXTINF:-1 tvg-name="Euronews English (720p)" group-title="03 Global News",Euronews English (720p)
 https://jmp2.uk/plu-61de96114757070008d33cae.m3u8
-#EXTINF:-1 tvg-name="Euronews English HD" group-title="03 Mosaic - International Perspectives",Euronews English HD
+#EXTINF:-1 tvg-name="Euronews English HD" group-title="03 Global News",Euronews English HD
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
-#EXTINF:-1 tvg-name="France 24 English (1080p)" group-title="03 Mosaic - International Perspectives",France 24 English (1080p)
+#EXTINF:-1 tvg-name="France 24 English (1080p)" group-title="03 Global News",France 24 English (1080p)
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-name="France 24 English HD (1080p)" group-title="03 Mosaic - International Perspectives",France 24 English HD (1080p)
+#EXTINF:-1 tvg-name="France 24 English HD (1080p)" group-title="03 Global News",France 24 English HD (1080p)
 http://nmk.ioapk.com:5050/4gtv-live146/index.m3u8
-#EXTINF:-1 tvg-name="Press TV English (candidate stream - availability varies)" group-title="03 Mosaic - International Perspectives",Press TV English (candidate stream - availability varies)
+#EXTINF:-1 tvg-name="Press TV English (candidate stream - availability varies)" group-title="03 Global News",Press TV English (candidate stream - availability varies)
 https://live.presstv.ir/hls/presstv.m3u8
-#EXTINF:-1 tvg-name="RT English (candidate stream - availability varies)" group-title="03 Mosaic - International Perspectives",RT English (candidate stream - availability varies)
+#EXTINF:-1 tvg-name="RT English (candidate stream - availability varies)" group-title="03 Global News",RT English (candidate stream - availability varies)
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT World (720p)" group-title="03 Mosaic - International Perspectives",TRT World (720p)
+#EXTINF:-1 tvg-name="TRT World (720p)" group-title="03 Global News",TRT World (720p)
 https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
-#EXTINF:-1 tvg-name="TRT World HD" group-title="03 Mosaic - International Perspectives",TRT World HD
+#EXTINF:-1 tvg-name="TRT World HD" group-title="03 Global News",TRT World HD
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:-1 tvg-name="MTA1 World" group-title="04 Islamic TV & Education",MTA1 World
 https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
